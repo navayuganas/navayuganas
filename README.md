@@ -1,9 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=004439&text=Navayugan%20A%20S&fontColor=fefae0" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=+Passionate+Full-Stack+Developer;🚀+Building+Modern+Web+Applications;+DSA+%26+Problem+Solving+Enthusiast;+Always+Learning+New+Technologies" alt="Typing SVG" />
-
-
+<img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single&size=20&pause=1000&color=004439&width=435&lines=Passionate+Full-Stack+Developer%F0%9F%9A%80;Innovative+Computer+Science+Engineer%F0%9F%96%A5%EF%B8%8F;Strong+Analytical+%26+Logical+Thinker%F0%9F%92%AA%F0%9F%A7%A0" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
