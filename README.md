@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=2B388F&text=Navayugan%20A%20S&desc=Full-Stack%20Developer&descAlign=50&descAlignY=70&section=header&reversal=true&textBg=false&fontAlignY=50&fontColor=FFFFFF" alt="Header" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=e6b8a2&text=Navayugan%20A%20S&desc=Full-Stack%20Developer&descAlign=50&descAlignY=70&section=header&reversal=true&textBg=false&fontAlignY=50&fontColor=7f5539" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=+Passionate+Full-Stack+Developer;🚀+Building+Modern+Web+Applications;+DSA+%26+Problem+Solving+Enthusiast;+Always+Learning+New+Technologies" alt="Typing SVG" />
 
 </div>
